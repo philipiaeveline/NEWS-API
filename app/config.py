@@ -25,3 +25,10 @@ class DevConfig(Config):
     '''
 
     DEBUG = True
+
+class Config:
+
+    '''
+    General configuration parent class
+    '''
+    NEWS_API_BASE_URL ='https://newsapi.org/v2/everything?q=bitcoin&apiKey=7b86e98b707d420d8b38756770bc1f5e'
