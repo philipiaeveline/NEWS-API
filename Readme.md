@@ -1,4 +1,5 @@
 # News_Api
+
 ## Author
 [Philipa-Eviline](https://github.com/philipiaeveline/NEWS-API)
 # Description
@@ -8,7 +9,7 @@ Click [Link](https://news-bulletins.herokuapp.com/) to visit the site
 
 ## Screenshot
 
-<img src="app/static/images/Screenshot\) from\ 2020-11-29\ 15-48-04.png" width="900px" height="440px">
+<img src="app/static/images/Screenshot\) from\ 2020-11-29\ 15-48-04.png" width="800px" height="400px">
 
 
 ## User Story
