@@ -1,6 +1,6 @@
-# News_Bulletins
+# News_Api
 ## Author
-[Owiti-Charles](https://github.com/Owiti-Charles)
+[Philipa-Eviline](https://github.com/philipiaeveline/NEWS-API)
 # Description
 This is an application that will help people who want to get realtime news withouth having to watch TV for the news. The website will show news articles from several sources and news sources that a user can click to see morw news. The  application consumes news from the [News API](https://newsapi.org/)
 ## Live Demo
@@ -9,7 +9,7 @@ Click [Link](https://news-bulletins.herokuapp.com/) to visit the site
 ## Screenshot
 
 <img src="" width="900px" height="440px">
-<img src="https://raw.githubusercontent.com/Owiti-Charles/News_Bulletins/master/app/templates/image/screenshot.png" width="900px" height="440px">
+<img src="width="900px" height="440px">
 
 ## User Story
 
