@@ -21,8 +21,7 @@ Click [Link](https://news-bulletins.herokuapp.com/) to visit the site
 To get the code..
 1. Cloning the repository:
   ```bash
-  git clone https://github.com/Owiti-Charles/News_Bulletins.git
-  ```
+  git clonehttps://github.com/philipiaeveline/NEWS-API
 2. Move to the folder and install requirements
   ```bash
   cd News_Bulletins
@@ -34,15 +33,15 @@ To get the code..
   ```
 4. Running the application
   ```bash
-  python3.6 manage.py server
+  python3.7 manage.py server
   ```
 5. Testing the application
   ```bash
-  python3.6 manage.py test
+  python3.7 manage.py test
   ```
 Open the application on your browser `127.0.0.1:5000`.
 ## Technology used
-* [Python3.6](https://www.python.org/)
+* [Python3.7](https://www.python.org/)
 * [Flask](http://flask.pocoo.org/)
 * [Heroku](https://heroku.com)
 ## Known Bugs
