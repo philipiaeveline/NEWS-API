@@ -1,7 +1,7 @@
 .title{
     font-family: 'Livvic', sans-serif;
     color: blue;
-    background-color: #6bc5d2;
+    background-color: burlywood;
 }
 .sourcecard{
     background-color: rgba(248, 248, 248, 0.89);
@@ -26,7 +26,7 @@
 .art{
     font-family: 'Chilanka', cursive;
     font-weight: bold;
-    background-color: #6bc5d2;
+
 }
 #articles{
     margin-top: 6%;
