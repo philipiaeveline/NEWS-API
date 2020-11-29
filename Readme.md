@@ -25,7 +25,7 @@ To get the code..
   git clonehttps://github.com/philipiaeveline/NEWS-API
 2. Move to the folder and install requirements
   ```bash
-  cd News_Bulletins
+  
   pip install -r requirements.txt
   ```
 3. Exporting Configurations
